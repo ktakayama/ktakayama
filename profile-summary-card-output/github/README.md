@@ -15,6 +15,16 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/ktakayama/ktakayama/master/profile-summary-card-output/github/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
@@ -25,10 +35,10 @@
 
 ---
 
-![](./2-most-commit-language.svg)
+![](./4-productive-time.svg)
 
 ```
-![](https://raw.githubusercontent.com/ktakayama/ktakayama/master/profile-summary-card-output/github/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/ktakayama/ktakayama/master/profile-summary-card-output/github/4-productive-time.svg)
 ```
 
     
